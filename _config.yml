@@ -1,4 +1,47 @@
 theme: jekyll-theme-slate
-main:
-  - title: "refactoring"
-    url: /refactoring/
+# Site settings
+title:          misun blog
+description:    "Dev Blog by MS"
+url:            "https://qkralsun480.github.io"
+lang:           "ko_KR"
+timezone:       "Asia/Seoul"
+home_path:      "/posts"
+
+# Author
+author:
+  name:         park misun
+  email:        qkralsun480@gmail.com
+  url:          https://qkralsun480.github.io
+
+# Build settings
+markdown:       kramdown
+highlighter:    rouge
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-postfiles
+  - jemoji
+
+# Permalinks
+permalink:      /posts/:year/:month/:day/:title/
+
+# Pagination
+pagination:
+  enabled:      true
+  permalink:    /p:num/
+  sort_field:   "date"
+  sort_reverse: true
+  per_page:     5
+  trail:
+    before:     2
+    after:      2
