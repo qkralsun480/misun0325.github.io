@@ -1,9 +1,8 @@
 ---
+layout: page
 title: About
-author: Tao He
-date: 2022-02-03
-category: Jekyll
-layout: post
 ---
 
-This is an about page.
+**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+
+For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
