@@ -1,6 +1,6 @@
 ---
 title: "리팩토링"
-date: 2022-02-305
+date: 2022-02-05
 categories: ['일반']
 tags: ['refactoring', 'github', 'github.io']
 ---
