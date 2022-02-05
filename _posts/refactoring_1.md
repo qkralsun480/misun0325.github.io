@@ -1,3 +1,9 @@
+---
+title: "리팩토링"
+date: 2022-02-305
+categories: ['일반']
+tags: ['refactoring', 'github', 'github.io']
+---
 # 리팩토링, 첫번째 예제
 
 - 리팩토링 첫번째 단계
