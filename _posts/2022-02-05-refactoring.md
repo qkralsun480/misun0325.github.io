@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "Refactoring 1일차"
 date: 2022-02-05
-categories: ['일반']
-tags: ['refactoring', 'github', 'github.io']
+categories: ['refactoring_practice']
 ---
 # 리팩토링, 첫번째 예제
 
