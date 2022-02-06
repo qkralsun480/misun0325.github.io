@@ -25,27 +25,27 @@ categories: ['security']
 
 - 실습환경
 
-![alt text](/public/img/TCP_2.PNG)
+![alt text](/public/img/TCP_2.png)
 
 ##### yum 명령어로 hunt 설치하기
 
-![alt text](/public/img/TCP_3.PNG)
+![alt text](/public/img/TCP_3.png)
 
 - 실습
 
-![alt text](/public/img/TCP_4.PNG)
+![alt text](/public/img/TCP_4.png)
 
-![alt text](/public/img/TCP_5.PNG)
+![alt text](/public/img/TCP_5.png)
 
-![alt text](/public/img/TCP_6.PNG)
+![alt text](/public/img/TCP_6.png)
 
-![alt text](/public/img/TCP_7.PNG)
+![alt text](/public/img/TCP_7.png)
 
-![alt text](/public/img/TCP_8.PNG)
+![alt text](/public/img/TCP_8.png)
 
-![alt text](/public/img/TCP_9.PNG)
+![alt text](/public/img/TCP_9.png)
 
-![alt text](/public/img/TCP_10.PNG)
+![alt text](/public/img/TCP_10.png)
 
 - 대응책
     - 탐지
